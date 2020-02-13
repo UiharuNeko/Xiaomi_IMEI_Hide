@@ -1,0 +1,8 @@
+#Hide your IMEI
+ro.ril.oem.imei=123456789012345
+ro.ril.oem.imei0=123456789012345
+ro.ril.oem.imei1=123456789012345
+ro.ril.oem.imei2=123456789012345
+ro.ril.oem.meid=123456789012345
+ro.ril.miui.imei0=123456789012345
+ro.ril.miui.imei1=123456789012345
