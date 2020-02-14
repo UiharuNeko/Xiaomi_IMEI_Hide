@@ -9,7 +9,7 @@ Maybe you can see your IMEI on the screen.
 
 When you can see the IMEI, means application can read your IMEI without any permissions.
 
-## How to slove it
+## How to solve it
 This module try to replace the IMEI when system booting.
 
 When you installed this module and rebooted,type that command again,you can see the fake IMEI on the screen.
